@@ -36,3 +36,11 @@ gal pwd
 gal g* (wildcards)
 gal *sv
 gal sa*
+
+Here gal stands for get-alias
+gal -Definition get-process
+
+CommandType     Name
+-----------     ----
+Alias           gps -> Get-Process
+Alias           ps -> Get-Process
