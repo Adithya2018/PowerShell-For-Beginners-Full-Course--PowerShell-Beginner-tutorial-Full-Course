@@ -18,3 +18,21 @@ get-alias
 
 Enter: YOUR-COMMAND > C:\PATH\TO\FOLDER\OUTPUT.txt
 to generate output file from commands
+
+To open applications:
+notepad
+calc
+mspaint
+
+ping dc
+
+cmd commands work in powershell:
+ipconfig
+
+
+Use gal and wildcards to filter out powershell commands and find alias
+
+gal pwd
+gal g* (wildcards)
+gal *sv
+gal sa*
