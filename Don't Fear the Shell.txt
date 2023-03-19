@@ -1,0 +1,20 @@
+set-location C:\
+(sets location to path)
+
+get-childitem
+(shows child within the directory)
+
+clear-host 
+(clears the host terminal)
+
+Both Unix and Windows commands...
+alias are there...
+
+ls, cd, clear, ...
+
+to see alias try
+
+get-alias
+
+Enter: YOUR-COMMAND > C:\PATH\TO\FOLDER\OUTPUT.txt
+to generate output file from commands
